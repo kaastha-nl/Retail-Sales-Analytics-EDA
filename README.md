@@ -43,7 +43,7 @@ The dataset (`Retail_Transactions_Dataset.csv`) is 161 MB, which is too large fo
 
 You can download it here:
 
-[Download Dataset from Google Drive](PUT-YOUR-DRIVE-LINK-HERE)
+[Download Dataset from Dropbox](https://www.dropbox.com/scl/fi/9xyxc2t07fqjm47va8gt8/Retail_Transactions_Dataset.csv?rlkey=9uur3b5u5q90i80zb7i6t9kgq&st=mnwofjv7&dl=0)
 
 
 
